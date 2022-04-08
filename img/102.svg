@@ -11,32 +11,74 @@
    inkscape:version="1.0 (4035a4f, 2020-05-01)"
    id="svg8"
    version="1.1"
-   viewBox="0 0 299.99622 299.99622"
-   height="300mm"
-   width="300mm">
+   viewBox="0 0 29.151403 13.701346"
+   height="51.785267"
+   width="110.17992">
   <defs
      id="defs2">
     <rect
+       id="rect3169"
+       height="13.039511"
+       width="28.568383"
+       y="0.23708202"
+       x="0.23708202" />
+    <rect
+       id="rect3162"
+       height="12.683888"
+       width="28.133733"
+       y="0.43465037"
+       x="0.51367771" />
+    <rect
+       id="rect3154"
+       height="12.604861"
+       width="28.054706"
+       y="104.29831"
+       x="34.508227" />
+    <rect
+       id="rect2990"
+       height="21.467373"
+       width="11.298618"
+       y="117.25024"
+       x="31.801102" />
+    <rect
+       id="rect2984"
+       height="96.004745"
+       width="241.14577"
+       y="99.210274"
+       x="32.21014" />
+    <rect
        id="rect1404"
        height="190.4976"
-       width="292.54988"
-       y="40.064971"
+       width="292.54987"
+       y="40.064972"
        x="3.7797143" />
+    <rect
+       x="3.7797143"
+       y="40.064972"
+       width="292.54987"
+       height="190.4976"
+       id="rect2853" />
   </defs>
   <sodipodi:namedview
+     lock-margins="true"
+     units="px"
+     fit-margin-bottom="0"
+     fit-margin-right="0"
+     fit-margin-left="0"
+     fit-margin-top="0"
      inkscape:window-maximized="0"
      inkscape:window-y="25"
-     inkscape:window-x="337"
-     inkscape:window-height="943"
-     inkscape:window-width="1252"
+     inkscape:window-x="-2"
+     inkscape:window-height="1027"
+     inkscape:window-width="1920"
      inkscape:pagecheckerboard="true"
      showgrid="false"
      inkscape:document-rotation="0"
      inkscape:current-layer="layer1"
      inkscape:document-units="px"
-     inkscape:cy="560"
-     inkscape:cx="400"
-     inkscape:zoom="0.35"
+     inkscape:cy="24.129043"
+     inkscape:cx="51.298676"
+     inkscape:zoom="6.6959106"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1"
@@ -55,23 +97,27 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <g
-     id="layer1"
-     inkscape:groupmode="layer"
-     inkscape:label="Layer 1">
-    <text
-       transform="translate(0.75594285,23.434228)"
-       y="0"
-       x="121.28951"
-       style="font-style:normal;font-weight:normal;font-size:152.13300000000000978px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect1404);fill:#000000;fill-opacity:1;stroke:none;"
-       id="text1402"
-       xml:space="preserve"><tspan
-         x="4.7557913"
-         y="178.86"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:152.133px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;letter-spacing:0px;text-anchor:middle;fill:#ffffff;stroke:#000000;stroke-opacity:1">102</tspan></tspan></text>
-  </g>
   <inkscape:templateinfo>
     <inkscape:name>Round Icon</inkscape:name>
     <inkscape:date>2022-04-07</inkscape:date>
   </inkscape:templateinfo>
+  <text
+     style="fill:black;fill-opacity:1;line-height:1.25;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:10.58320016999999957px;white-space:pre;shape-inside:url(#rect3162);"
+     id="text3160"
+     xml:space="preserve" />
+  <g
+     inkscape:label="Layer 1"
+     id="layer1"
+     inkscape:groupmode="layer">
+    <text
+       transform="translate(0.11854101,-0.35562305)"
+       y="0"
+       x="9.2621422"
+       style="font-style:normal;font-weight:normal;font-size:11.11239999999999917px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect3169);fill:#000000;fill-opacity:1;stroke:none;"
+       id="text3167"
+       xml:space="preserve"><tspan
+         x="3.9072976"
+         y="10.374508"><tspan
+           style="text-align:center;text-anchor:middle;fill:#ffffff">102</tspan></tspan></text>
+  </g>
 </svg>
