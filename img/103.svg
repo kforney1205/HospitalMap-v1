@@ -7,21 +7,21 @@
    xmlns="http://www.w3.org/2000/svg"
    id="svg8"
    version="1.1"
-   viewBox="0 0 299.99622 299.99622"
-   height="300mm"
-   width="300mm">
+   viewBox="0 0 258.35868 115.214"
+   height="115.21545mm"
+   width="258.36194mm">
   <defs
      id="defs2">
     <rect
        id="rect1404"
        height="190.4976"
-       width="292.54988"
-       y="40.064971"
+       width="292.54987"
+       y="40.064972"
        x="3.7797143" />
     <rect
        x="3.7797143"
-       y="40.064971"
-       width="292.54988"
+       y="40.064972"
+       width="292.54987"
        height="190.4976"
        id="rect2853" />
   </defs>
@@ -38,6 +38,7 @@
     </rdf:RDF>
   </metadata>
   <g
+     transform="translate(-23.138828,-88.627075)"
      style="display:none"
      id="layer1">
     <text
@@ -52,6 +53,7 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:152.133px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;letter-spacing:0px;text-anchor:middle;fill:#ffffff;stroke:#000000;stroke-opacity:1">103</tspan></tspan></text>
   </g>
   <g
+     transform="translate(-23.138828,-88.627075)"
      id="g2851">
     <text
        xml:space="preserve"
